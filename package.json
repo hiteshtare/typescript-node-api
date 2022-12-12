@@ -16,7 +16,7 @@
     "@types/log4js": "^2.3.5",
     "@types/morgan": "^1.9.0",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-status-codes": "^1.4.0",
     "log4js": "^6.1.2",
     "morgan": "^1.10.0"
